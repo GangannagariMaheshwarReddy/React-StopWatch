@@ -9,7 +9,7 @@ Start, Pause, and Reset functionality
 
 Clean and modern responsive UI with CSS
 
-Lightweight and fast — built entirely in React
+Lightweight and fast — built entirely in React, CSS
 
 Perfect for learning hooks, state management, and React component structure
 
