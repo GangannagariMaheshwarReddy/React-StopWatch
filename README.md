@@ -1,7 +1,7 @@
 ⏱️ Stopwatch App (React + CSS)
 
 A simple and responsive Stopwatch application built using React.js and CSS.
-It provides an intuitive interface to start, pause, reset, and track time accurately, with smooth UI updates and minimalistic design.
+It provides an intuitive interface to start, pause, reset with smooth UI updates and minimalistic design.
 
 ✨ Features:
 
@@ -19,6 +19,6 @@ Frontend: React.js
 
 Styling: CSS3 (Responsive Design)
 
-Language: JavaScript (ES6+)
+Language: JavaScript
 
 IDE: VS Code
