@@ -40,7 +40,7 @@ function Stopwatch() {
 
   return (
     <div className="stopwatch-container">
-      <h1 className="title">⏱ React Stopwatch</h1>
+      <h1 className="title">⏱ React StopWatch</h1>
       <div className="stopwatch">
         <div className="display">{formatTime()}</div>
         <div className="controls">
